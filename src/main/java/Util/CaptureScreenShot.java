@@ -15,6 +15,7 @@ import java.util.Date;
 
 public class CaptureScreenShot {
  /// GITDEMO;
+    // GITDEMO2 :
     public  static final SimpleDateFormat dateFormat = new SimpleDateFormat("yyy_MM_dd SSS");
 
     public static String captureScreen(WebDriver driver, long time) throws IOException {
